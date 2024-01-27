@@ -1,4 +1,5 @@
-This repository contains a corner detection algorithm and the image used to test it.
+
+ This repository contains a corner detection algorithm and the image used to test it.
 
 Contained in the ipynb file are two algorithms: One algorithm is to test an input image and thhe other is for Real time corner detection.
 
